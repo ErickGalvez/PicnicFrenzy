@@ -31,9 +31,9 @@ Making sure that the logic of the character knows that he is entering the area o
 This brings me to the first implemented piece of logic in the game, we are going to print whenever the player enters an area, the name of the corresponding worksation
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa6d54bb-891a-44ac-b99d-9909595fdf6c" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/aa6d54bb-891a-44ac-b99d-9909595fdf6c" alt="Smoothie_Character_Concept_v1" width="400" height="auto"/>
   <img src="https://github.com/user-attachments/assets/16457c3a-c1d0-4778-92a6-aa5df722597c" alt="Smoothie_Character_Concept_v1" width="1080" height="auto"/>
-  
+
 </p>
 
 here are some textures, models and concepts implemented to tidy up the level and advance in the visual development of the game
@@ -44,6 +44,11 @@ here are some textures, models and concepts implemented to tidy up the level and
 </p>
 
 https://github.com/user-attachments/assets/b57a8887-2e1e-4ef7-ac4b-278a2b920921
+
+
+## Day 2: 15/01/2025 Demo 1 Picnic Frenzy:
+4 tasks will compose the Smoothie Cycle v1, we are going to focus on a sub-mechanic, the idea is to be able to pick up stuff, basically, we get near an object we want to pick, press E, the instance of the object picked will be destroyed from the map, and we are adding 1 to the "Fruit" variable, used for tracking how many fruits the player carries at any given moment
+<img src="https://github.com/user-attachments/assets/cf20a560-145a-41bd-bf1a-a074596a788e" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
 
 
 
