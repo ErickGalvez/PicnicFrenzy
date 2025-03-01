@@ -14,10 +14,10 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 
 ## Day 1: 14/01/2025 Demo 1 Picnic Frenzy:
 4 tasks will compose the Smoothie Cycle v1
--Pick from Fridge
--Blend
--Serve
--Deliver
+**-Pick from Fridge**
+**-Blend**
+**-Serve**
+**-Deliver**
 Developed with Unreal Engine 5
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c931b1ce-33fe-4e9e-8c12-72c2e9bbd3c8" alt="Sublime's custom image" width="350" height="auto"/>
