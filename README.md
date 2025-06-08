@@ -1,24 +1,16 @@
 
 # PicnicFrenzy
 
-## Demo 2 Picnic Frenzy:
-4 tasks will compose the Smoothie Cycle v1, we are going to focus on a sub-mechanic, the idea is to be able to pick up stuff, basically, we get near an object we want to pick, press E, the instance of the object picked will be destroyed from the map, and we are adding 1 to the "Fruit" variable, used for tracking how many fruits the player carries at any given moment
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/cf20a560-145a-41bd-bf1a-a074596a788e" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
-</p>
 
 
-https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 
-
-## Demo 1 Picnic Frenzy:
+## Demo 1 Picnic Frenzy Smoothie Cycle overview:
 4 tasks will compose the Smoothie Cycle v1
-**-Pick from Fridge**
-**-Blend**
-**-Serve**
-**-Deliver**
-Developed with Unreal Engine 5
+<li>Pick item</li>
+<li>Blend</li>
+<li>Serve</li>
+<li>Deliver</li>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c931b1ce-33fe-4e9e-8c12-72c2e9bbd3c8" alt="Sublime's custom image" width="350" height="auto"/>
 </p>
@@ -59,9 +51,29 @@ here are some textures, models and concepts implemented to tidy up the level and
 https://github.com/user-attachments/assets/b57a8887-2e1e-4ef7-ac4b-278a2b920921
 
 
+## Demo 2 Smoothie Cycle - Step 1: Pick Item:
+We get near an object we want to pick, press E, the instance of the object picked will be destroyed from the map, and we are adding 1 to the "Fruit" variable, used for tracking how many fruits the player carries at any given moment
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/cf20a560-145a-41bd-bf1a-a074596a788e" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
+</p>
 
 
+https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 
 
+## Demo 3 Smoothie Cycle - Step 2: Blending: 
+### Funcitonality:
+<li>-Input Ingredients</li>
+<li>-Blender State Machine</li>
 
+### Art:
+<li>Blending liquid simulations</li>
+<li>Smoothie Material</li>
+<li>Pouring liquid animation</li>
+<li>Some Extra background assets</li>
+<li>FruitBag
+
+
+Developed with Unreal Engine 5
 
