@@ -1,7 +1,7 @@
 
 # PicnicFrenzy
 
-## Day 2:Demo 1 Picnic Frenzy:
+## Demo 2 Picnic Frenzy:
 4 tasks will compose the Smoothie Cycle v1, we are going to focus on a sub-mechanic, the idea is to be able to pick up stuff, basically, we get near an object we want to pick, press E, the instance of the object picked will be destroyed from the map, and we are adding 1 to the "Fruit" variable, used for tracking how many fruits the player carries at any given moment
 
 <p align="center">
@@ -12,7 +12,7 @@
 https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 
 
-## Day 1: 14/01/2025 Demo 1 Picnic Frenzy:
+## Demo 1 Picnic Frenzy:
 4 tasks will compose the Smoothie Cycle v1
 **-Pick from Fridge**
 **-Blend**
