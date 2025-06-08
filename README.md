@@ -65,6 +65,19 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 ## Demo 3 Smoothie Cycle - Step 2: Blending: 
 ### Funcitonality:
 <li>-Input Ingredients</li>
+To enter a fruit or item in a blender it must first evaluate if the player has any fruits added to their invenotry, if there are, it will proceed to substract one fruit from the inventory 
+(Which will be represented by the variable before implementing any Inventory functionality to the game), 
+For the first iteration of the Blending functionality, the state of the blender will be now at full capacity by adding one fruit.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/bbc4d3db-cfe1-4949-8198-5353586a20b4" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
+</p>
+![Smoothie - Fill Blender]()
+
+
+On later iterations a gradual capacity for the blender will be implemented as illustrated:
+
+
 <li>-Blender State Machine</li>
 
 ### Art:
