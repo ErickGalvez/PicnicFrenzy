@@ -63,47 +63,49 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 
 
 ## Demo 3 Smoothie Cycle - Step 2: Blending: 
-### Funcitonality:
-<li>Drop Ingredients into blender</li>
-<img src="https://github.com/user-attachments/assets/25441574-324f-420d-a328-89ebb371903d" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
-![blender]()
-
-To enter a fruit or item in a blender it must first evaluate if the player has any fruits added to their invenotry, if there are, it will proceed to substract one fruit from the inventory 
-(Which will be represented by the variable before implementing any Inventory functionality to the game), 
-For the first iteration of the Blending functionality, the state of the blender will be now at full capacity by adding one fruit.
-
-https://github.com/user-attachments/assets/655c9b2e-a9c1-464b-b71e-7ed251e746dd
-
-This First iteration only detects when Fruit has been entered to the Device It shows a placeholder with either: Purple for empty, Orange for Fruit entered
 ## State Machine V1:
-2 states:
-<li>Full</li>
-<li>Empty</li>
+<div align="justify">
+  <video src="https://github.com/user-attachments/assets/655c9b2e-a9c1-464b-b71e-7ed251e746dd" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
+</div>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/bbc4d3db-cfe1-4949-8198-5353586a20b4" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
-<img src="https://github.com/user-attachments/assets/dc0d3e75-7707-4e16-aed1-056f73e53ba3" alt="Pick Fruit Mechanics" width="600" height="auto"/>
-</p>
+### Funcitonality:
+<div>
+  <img src="https://github.com/user-attachments/assets/25441574-324f-420d-a328-89ebb371903d" alt="Smoothie_Character_Concept_v1" width="220" height="auto" align="left"/>
+  <p align="left">
+  To enter a fruit or item in a blender it must first evaluate if the player has any fruits added to their invenotry, if there are, it will proceed to substract one fruit from the inventory 
+  (Which will be represented by the variable before implementing any Inventory functionality to the game), 
+  For the first iteration of the Blending functionality, the state of the blender will be now at full capacity by adding one fruit.
 
+  This First iteration only detects when Fruit has been entered to the Device It shows a placeholder with either: Purple for empty, Orange for Fruit entered
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc0d3e75-7707-4e16-aed1-056f73e53ba3" alt="Pick Fruit Mechanics" width="700" height="auto"/>
+  </p>
+  <br><br>
+</div>
+  
+<div>
+  <img src="https://github.com/user-attachments/assets/bbc4d3db-cfe1-4949-8198-5353586a20b4" alt="Smoothie_Character_Concept_v1" width="500" height="auto"/>
 
+  
+</div>
 
-
-On later iterations a gradual capacity for the blender will be implemented as illustrated:
-
-
-<li>Blender State Machine</li>
-
+<div>
 ### Art:
-<li>Blending liquid simulations</li>
-<li>Smoothie Material</li>
-<li>Pouring liquid animation</li>
-<li>Some Extra background assets</li>
-<li>FruitBag
+  <li>Blending liquid simulations</li>
+  <li>Smoothie Material</li>
+  <li>Pouring liquid animation</li>
+  <li>Some Extra background assets</li>
+  <li>FruitBag</li>
+  <br>
+   <br>
+On later iterations a gradual capacity for the blender will be implemented as illustrated:  
+</div>
 
 
 
 
 
-
+  
+   
 Developed with Unreal Engine 5
 
