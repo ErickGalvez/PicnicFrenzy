@@ -92,6 +92,13 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 <div>
 ### Art:
   <li>Blending liquid simulations</li>
+  <ul>Technical aspects of water simulation integration to ue5</ul>
+  <ul>How it affects performance on mobile devices?</ul>
+  <ul>What is the best looking integration of the simulation?</ul>
+  <ul>What is the most native UE5 option available?</ul>
+  <ul>What is the most efficient/best performance way of using fluid simulations on UE5</ul>
+    <ul>Baking resulting fluid simulation to use top part of the cache as a height map</ul>
+        <p>Turning non manifold geometry given by a fluid simulation into a height map is the most resource efficient way of presenting a simulation, The blending_sim_1.abc does note involve drastic geometry movement in its lower part, due to liquid filling completely and vortex force pushing the liquid to the walls of the blender</p>
   <li>Smoothie Material</li>
   <li>Pouring liquid animation</li>
   <li>Some Extra background assets</li>
