@@ -91,15 +91,36 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 
 <div>
 ### Art:
+   <p>First assets developed might get considerable larger amounts of documentation as the workflows for art and asset development being established lay the foundation for design patterns that will be implemented later on in the production of more assets.</p>
+  
   <li>Blending liquid simulations</li>
-  <ul>Technical aspects of water simulation integration to ue5</ul>
-  <ul>How it affects performance on mobile devices?</ul>
+ 
+  I decided to tackle a water simulation and test its performance on mobile devices, I will touch upon different levels of optimization and getting to a final developed asset that cleverly uses resources depending on the focus of the camera or a traditional LOD (Level of Detail) system, the goal is to obtain an appealing asset that reinforces the Smoothie cycle game mechanic aesthetic and fun, while keeping performance off to a good start, avoiding resource demanding animations, this should allow the levels to have multiple devices on screen without compromising performance.
+
+  ## Proof of concept #1 - Technical aspects of water simulation integration to ue5
+  <li><b>What is the most native UE5 option available?</b></li>
+    <p>Alembic cache simulation is the most standarized way of managing particle simulation mesh sequences between different particle simulation softwares/plug-ins, this format can be imported into Unreal Enigne 5, it has a smooth integration and intuitive use inside Unreals animation framework</p>
+  
+  
+  
+  
   <ul>What is the best looking integration of the simulation?</ul>
+  
   <ul>What is the most native UE5 option available?</ul>
+  
   <ul>What is the most efficient/best performance way of using fluid simulations on UE5</ul>
     <ul>Baking resulting fluid simulation to use top part of the cache as a height map</ul>
-        <p>Turning non manifold geometry given by a fluid simulation into a height map is the most resource efficient way of presenting a simulation, The blending_sim_1.abc does note involve drastic geometry movement in its lower part, due to liquid filling completely and vortex force pushing the liquid to the walls of the blender</p>
+        <p>Turning manifold geometry given by a fluid simulation into a height map is the most efficient way that comes to mind, 
+          The blending_sim_1.abc does note involve drastic geometry movement in its lower part, due to liquid filling completely and vortex force pushing the liquid to the walls of the blender</p>
+          <img width="1372" height="900" alt="WaterSim_Scheme" src="https://github.com/user-attachments/assets/dd14ebba-d2af-4e98-a4ec-1bb2dd854628" />
+
+  <ul>How it affects performance on mobile devices?</ul>       
+  To Do: Perf testing for devices: Its necessary to deploy a mobile build 0.1 with the finished asset and its variations to analyze their performance and get a clear insight as to how the asset can be optimized with different implementations
+  
+
+          
   <li>Smoothie Material</li>
+
   <li>Pouring liquid animation</li>
   <li>Some Extra background assets</li>
   <li>FruitBag</li>
