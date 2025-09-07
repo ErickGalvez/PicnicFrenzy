@@ -78,13 +78,20 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 
   This First iteration only detects when Fruit has been entered to the Device It shows a placeholder with either: Purple for empty, Orange for Fruit entered
   <br>
+  
   <img src="https://github.com/user-attachments/assets/dc0d3e75-7707-4e16-aed1-056f73e53ba3" alt="Pick Fruit Mechanics" width="700" height="auto"/>
+  
+    
+  
   </p>
+  On later iterations a gradual capacity for the blender will be implemented as illustrated:
   <br><br>
 </div>
   
 <div>
-  <img src="https://github.com/user-attachments/assets/bbc4d3db-cfe1-4949-8198-5353586a20b4" alt="Smoothie_Character_Concept_v1" width="500" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/bbc4d3db-cfe1-4949-8198-5353586a20b4" alt="Smoothie_Character_Concept_v1" width="400" height="auto"/>
+  <img width="400" height="auto" alt="Blender Capacity" src="https://github.com/user-attachments/assets/473fd4f9-4cc9-430d-a605-89711a471916" />
+  
 
   
 </div>
@@ -126,7 +133,9 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
   <li>FruitBag</li>
   <br>
    <br>
-On later iterations a gradual capacity for the blender will be implemented as illustrated:  
+
+
+
 </div>
 
 
