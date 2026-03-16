@@ -124,10 +124,13 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
   <ul>How it affects performance on mobile devices?</ul>       
   To Do: Perf testing for devices: Its necessary to deploy a mobile build 0.1 with the finished asset and its variations to analyze their performance and get a clear insight as to how the asset can be optimized with different implementations
   
-          
+## State Machine V2: Intermediate states for different capacities          
+
+At this stage I've achieved basic interaction as coverded above, it is time to build an Animation Blueprint that can describe the amount of smoothie the Blender has by displaying one frame of Animation Sequence depending on the capacity left for the blender, this will allow further iteration with animations and art, while keeping a stable foundation that can be reliable to keep different amounts of smoothie.
+
+This ABP (Animation Blueprint) Allows players to quickly tell if a blender is already full or needs fruit to advance in the next step of the Smoothie Cycle Mechanic
  <video src="https://github.com/user-attachments/assets/fef1ce97-d130-48b7-8aa0-7ea6b9b6ea7b" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
  
-
 
 
 
