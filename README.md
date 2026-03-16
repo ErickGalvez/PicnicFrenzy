@@ -134,9 +134,14 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
   <br>
    <br>
 
+<img src="https://github.com/user-attachments/assets/d6302239-8f36-4110-afd4-6c31f34b3545" alt="Pick Fruit Mechanics v2" width="700" height="auto"/>
 
 
 </div>
+
+
+
+
 
 
 
