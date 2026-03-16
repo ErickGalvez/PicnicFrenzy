@@ -129,6 +129,8 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 At this stage I've achieved basic interaction as coverded above, it is time to build an Animation Blueprint that can describe the amount of smoothie the Blender has by displaying one frame of Animation Sequence depending on the capacity left for the blender, this will allow further iteration with animations and art, while keeping a stable foundation that can be reliable to keep different amounts of smoothie.
 
 This ABP (Animation Blueprint) Allows players to quickly tell if a blender is already full or needs fruit to advance in the next step of the Smoothie Cycle Mechanic
+
+Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeholder animation for running, walking and iddle
  <video src="https://github.com/user-attachments/assets/fef1ce97-d130-48b7-8aa0-7ea6b9b6ea7b" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
  
 
