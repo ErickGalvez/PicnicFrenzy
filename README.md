@@ -125,8 +125,8 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
   To Do: Perf testing for devices: Its necessary to deploy a mobile build 0.1 with the finished asset and its variations to analyze their performance and get a clear insight as to how the asset can be optimized with different implementations
   
           
-
- <img src="https://github.com/user-attachments/assets/59c2a006-935d-4592-9e59-0d36b5481fce" alt="Pick Fruit Mechanics" width="700" height="auto"/>
+ <video src="https://github.com/user-attachments/assets/655c9b2e-a9c1-464b-b71e-7ed251e746dd" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
+ 
 
           
   <li>Smoothie Material</li>
