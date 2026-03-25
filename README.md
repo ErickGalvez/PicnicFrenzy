@@ -130,6 +130,13 @@ At this stage I've achieved basic interaction as coverded above, it is time to b
 
 This ABP (Animation Blueprint) Allows players to quickly tell if a blender is already full or needs fruit to advance in the next step of the Smoothie Cycle Mechanic
 
+
+
+
+Blender Content is represented with this volume, whick has 2 ShapeKeys, One that represents the empty container, and one to represent the full Blender Container
+ <video src="https://github.com/user-attachments/assets/02a6a6c2-5e4e-431f-9d37-90616e424718" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
+
+
 Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeholder animation for running, walking and iddle
  <video src="https://github.com/user-attachments/assets/fef1ce97-d130-48b7-8aa0-7ea6b9b6ea7b" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
  
