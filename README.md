@@ -134,7 +134,7 @@ This ABP (Animation Blueprint) Allows players to quickly tell if a blender is al
 
 
 Blender Content is represented with this volume, whick has 2 ShapeKeys, One that represents the empty container, and one to represent the full Blender Container
- <video src="https://github.com/user-attachments/assets/02a6a6c2-5e4e-431f-9d37-90616e424718" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
+ <video src="https://github.com/user-attachments/assets/02a6a6c2-5e4e-431f-9d37-90616e424718" alt="Smoothie_Character_Concept_v1" width="2" height="auto" align="left"/>
 
 
 Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeholder animation for running, walking and iddle
