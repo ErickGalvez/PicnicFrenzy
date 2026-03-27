@@ -38,7 +38,6 @@ This brings me to the first implemented piece of logic in the game, we are going
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa6d54bb-891a-44ac-b99d-9909595fdf6c" alt="Smoothie_Character_Concept_v1" width="400" height="auto"/>
   <img src="https://github.com/user-attachments/assets/16457c3a-c1d0-4778-92a6-aa5df722597c" alt="Smoothie_Character_Concept_v1" width="1080" height="auto"/>
-
 </p>
 
 here are some textures, models and concepts implemented to tidy up the level and advance in the visual development of the game
@@ -133,8 +132,10 @@ This ABP (Animation Blueprint) Allows players to quickly tell if a blender is al
 
 
 
-Blender Content is represented with this volume, whick has 2 ShapeKeys, One that represents the empty container, and one to represent the full Blender Container
+Blender Content is represented with this volume, which has 2 ShapeKeys, One that represents the empty container, and one to represent the full Blender Container
  <video src="https://github.com/user-attachments/assets/02a6a6c2-5e4e-431f-9d37-90616e424718" alt="Smoothie_Character_Concept_v1" width="2" height="auto" align="left"/>
+We then transfer this into the following Asset types within unreal engine
+
 
 
 Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeholder animation for running, walking and iddle
