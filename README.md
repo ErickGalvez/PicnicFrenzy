@@ -125,7 +125,13 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
   
 ## State Machine V2: Intermediate states for different capacities          
 
-At this stage I've achieved basic interaction as coverded above, it is time to build an Animation Blueprint that can describe the amount of smoothie the Blender has by displaying one frame of Animation Sequence depending on the capacity left for the blender, this will allow further iteration with animations and art, while keeping a stable foundation that can be reliable to keep different amounts of smoothie.
+At this stage I've achieved basic interaction as coverded above, it is time to build an Animation Blueprint that can describe the amount of smoothie the Blender has by displaying one frame of Animation Sequence depending on the capacity left for the blender.
+
+Blender Content is represented with this volume, which has 2 ShapeKeys, One that represents the empty container, and one to represent the full Blender Container
+ <video src="https://github.com/user-attachments/assets/02a6a6c2-5e4e-431f-9d37-90616e424718" alt="Smoothie_ShapeKeys_" width="2" height="auto" align="left"/>
+We then transfer this into the following Asset types within unreal engine.
+
+this will allow further iteration with animations and art, while keeping a stable foundation that can be reliable to keep different amounts of smoothie.
 
 This ABP (Animation Blueprint) Allows players to quickly tell if a blender is already full or needs fruit to advance in the next step of the Smoothie Cycle Mechanic
 
@@ -133,9 +139,7 @@ This ABP (Animation Blueprint) Allows players to quickly tell if a blender is al
 
 <img width="1406" height="701" alt="Cpacity_AmountFilled_ABP" src="https://github.com/user-attachments/assets/bdca5c3d-1a2d-4622-b987-e08418b16b89" />
 
-Blender Content is represented with this volume, which has 2 ShapeKeys, One that represents the empty container, and one to represent the full Blender Container
- <video src="https://github.com/user-attachments/assets/02a6a6c2-5e4e-431f-9d37-90616e424718" alt="Smoothie_Character_Concept_v1" width="2" height="auto" align="left"/>
-We then transfer this into the following Asset types within unreal engine.
+
 
 
 
