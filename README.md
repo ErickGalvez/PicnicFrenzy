@@ -131,10 +131,11 @@ This ABP (Animation Blueprint) Allows players to quickly tell if a blender is al
 
 
 
+<img width="1406" height="701" alt="Cpacity_AmountFilled_ABP" src="https://github.com/user-attachments/assets/bdca5c3d-1a2d-4622-b987-e08418b16b89" />
 
 Blender Content is represented with this volume, which has 2 ShapeKeys, One that represents the empty container, and one to represent the full Blender Container
  <video src="https://github.com/user-attachments/assets/02a6a6c2-5e4e-431f-9d37-90616e424718" alt="Smoothie_Character_Concept_v1" width="2" height="auto" align="left"/>
-We then transfer this into the following Asset types within unreal engine
+We then transfer this into the following Asset types within unreal engine.
 
 
 
