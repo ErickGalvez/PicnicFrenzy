@@ -134,22 +134,19 @@ We then transfer this into the following Asset types within unreal engine.
 this will allow further iteration with animations and art, while keeping a stable foundation that can be reliable to keep different amounts of smoothie.
 
 This ABP (Animation Blueprint) Allows players to quickly tell if a blender is already full or needs fruit to advance in the next step of the Smoothie Cycle Mechanic,
-Below it, you will find the Update Capacity To Amount, Which evaluates the current Blender capacity and outputs this amount converted into seconds to Amount Fill
+Below it, you will find the Update Capacity To Amount Function, Which evaluates the current Blender capacity and outputs this amount converted into seconds to Amount Fill
 
 
 
 <img width="1406" height="701" alt="Cpacity_AmountFilled_ABP" src="https://github.com/user-attachments/assets/bdca5c3d-1a2d-4622-b987-e08418b16b89" />
 
-
-
-
-
 Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeholder animation for running, walking and iddle
  <video src="https://github.com/user-attachments/assets/fef1ce97-d130-48b7-8aa0-7ea6b9b6ea7b" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
  
+## State Machine V3: Complete Player Interaction Loop
+New Workstation_Blender_ Logic takes into account a more complete Player interaction, the Workstation is designed to handle player interaction specially through a Switch Statement that evaluates each Blender Status and responds with different conditions depending on the state it finds itself in. Here is a Diagram that outlines main Player interactions along different Blender Status, and how each case is handled
 
-
-
+<img width="1526" height="721" alt="Blender_State_Machine_V3" src="https://github.com/user-attachments/assets/1fef15bc-50ca-4dcb-9cfb-11f033e56a84" />
 
           
   <li>Smoothie Material</li>
