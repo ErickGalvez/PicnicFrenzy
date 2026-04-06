@@ -133,7 +133,8 @@ We then transfer this into the following Asset types within unreal engine.
 
 this will allow further iteration with animations and art, while keeping a stable foundation that can be reliable to keep different amounts of smoothie.
 
-This ABP (Animation Blueprint) Allows players to quickly tell if a blender is already full or needs fruit to advance in the next step of the Smoothie Cycle Mechanic
+This ABP (Animation Blueprint) Allows players to quickly tell if a blender is already full or needs fruit to advance in the next step of the Smoothie Cycle Mechanic,
+Below it, you will find the Update Capacity To Amount, Which evaluates the current Blender capacity and outputs this amount converted into seconds to Amount Fill
 
 
 
