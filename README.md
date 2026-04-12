@@ -21,9 +21,7 @@ early development will be Blueprint based, since this aproach lays an easy frame
 
 As a solo developer for this project, ill also be in charge of the concept art, modelling, developing and testing, this Log will also feature concept art for characters, assets and levels
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7b9585f2-5b5b-472f-ac00-9a1889e47c3b" alt="Smoothie_Character_Concept_v1" width="350" height="auto"/>
-</p>
+-You can check the Art Development on the ART.md file
 
 Here's a first idea of blocking an area to test the interaction with each workstation
 
