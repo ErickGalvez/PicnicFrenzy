@@ -38,13 +38,6 @@ This brings me to the first implemented piece of logic in the game, we are going
   <img src="https://github.com/user-attachments/assets/16457c3a-c1d0-4778-92a6-aa5df722597c" alt="Smoothie_Character_Concept_v1" width="1080" height="auto"/>
 </p>
 
-here are some textures, models and concepts implemented to tidy up the level and advance in the visual development of the game
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e71fa2f0-3255-4fdd-8fda-1fee976f9bee" alt="Smoothie_Character_Concept_v1" width="500" height="auto"/>
-  <img src="https://github.com/user-attachments/assets/9317f0c5-e78f-4831-8ed7-926b79aa8d11" alt="Smoothie_Character_Concept_v1" width="500" height="auto"/>
-</p>
-
 https://github.com/user-attachments/assets/b57a8887-2e1e-4ef7-ac4b-278a2b920921
 
 
