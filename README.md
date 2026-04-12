@@ -145,7 +145,7 @@ Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeho
  
 ## State Machine V3: Complete Player Interaction Loop
 <div>
-  <img width="500" height="687" alt="Blender_Status_Mechanic_V3" align="left" src="https://github.com/user-attachments/assets/955a0ecc-a3d0-40a1-b919-c1d72185dfcc" />
+  <img width="450" height="687" alt="Blender_Status_Mechanic_V3" align="left" src="https://github.com/user-attachments/assets/955a0ecc-a3d0-40a1-b919-c1d72185dfcc" />
   <p align="Right"> New Workstation_Blender_ Logic takes into account a more complete Player interaction, the Workstation is designed to handle player interaction specially     through a Switch Statement that evaluates each Blender Status and responds with different conditions depending on the state it finds itself in. Here is a Diagram that         outlines main Player interactions along different Blender Status, and how each case is handled </p>
 </div>
 
