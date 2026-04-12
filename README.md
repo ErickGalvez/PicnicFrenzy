@@ -148,6 +148,11 @@ New Workstation_Blender_ Logic takes into account a more complete Player interac
 
 <img width="1526" height="721" alt="Blender_State_Machine_V3" src="https://github.com/user-attachments/assets/1fef15bc-50ca-4dcb-9cfb-11f033e56a84" />
 
+
+<video src="https://github.com/user-attachments/assets/2cbdc91a-5cf2-49bd-a430-9d2c3a2db613" alt="Smoothie_Mechanic_V3" width="20" height="auto" align="left"/>
+
+
+
           
   <li>Smoothie Material</li>
 
