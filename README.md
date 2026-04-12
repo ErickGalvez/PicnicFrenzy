@@ -147,12 +147,12 @@ Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeho
 New Workstation_Blender_ Logic takes into account a more complete Player interaction, the Workstation is designed to handle player interaction specially through a Switch Statement that evaluates each Blender Status and responds with different conditions depending on the state it finds itself in. Here is a Diagram that outlines main Player interactions along different Blender Status, and how each case is handled
 
 <img width="1526" height="721" alt="Blender_State_Machine_V3" src="https://github.com/user-attachments/assets/1fef15bc-50ca-4dcb-9cfb-11f033e56a84" />
-
+<img width="1242" height="687" alt="Blender_Status_Mechanic_V3" src="https://github.com/user-attachments/assets/955a0ecc-a3d0-40a1-b919-c1d72185dfcc" />
 
 
 <video src="https://github.com/user-attachments/assets/2cbdc91a-5cf2-49bd-a430-9d2c3a2db613" alt="Smoothie_Mechanic_V3" width="auto" height="100px" align="left"/>
 
-<img width="1242" height="687" alt="Blender_Status_Mechanic_V3" src="https://github.com/user-attachments/assets/955a0ecc-a3d0-40a1-b919-c1d72185dfcc" />
+
 
           
   <li>Smoothie Material</li>
