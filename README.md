@@ -111,7 +111,6 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
           The blending_sim_1.abc does note involve drastic geometry movement in its lower part, due to liquid filling completely and vortex force pushing the liquid to the walls of the blender</p>
           <img width="1372" height="900" alt="WaterSim_Scheme" src="https://github.com/user-attachments/assets/dd14ebba-d2af-4e98-a4ec-1bb2dd854628" />
           <video src="https://github.com/user-attachments/assets/8e68241d-9d17-4a1f-a2fe-1cff3f13f492" alt="Smoothie_Animation_Compare_V1" width="20" height="auto" align="left"/>
-
   <ul>How it affects performance on mobile devices?</ul>       
   To Do: Perf testing for devices: Its necessary to deploy a mobile build 0.1 with the finished asset and its variations to analyze their performance and get a clear insight as to how the asset can be optimized with different implementations
   
@@ -136,6 +135,7 @@ Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeho
  <video src="https://github.com/user-attachments/assets/fef1ce97-d130-48b7-8aa0-7ea6b9b6ea7b" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
  
 ## State Machine V3: Complete Player Interaction Loop
+
 <div>
   <img width="450" height="687" alt="Blender_Status_Mechanic_V3" align="left" src="https://github.com/user-attachments/assets/955a0ecc-a3d0-40a1-b919-c1d72185dfcc" />
   <p align="Right"> New Workstation_Blender_ Logic takes into account a more complete Player interaction, the Workstation is designed to handle player interaction specially     through a Switch Statement that evaluates each Blender Status and responds with different conditions depending on the state it finds itself in. Here is a Diagram that         outlines main Player interactions along different Blender Status, and how each case is handled </p>
