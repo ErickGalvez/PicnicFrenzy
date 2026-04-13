@@ -114,8 +114,16 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
    
   <ul>How it affects performance on mobile devices?</ul>       
   To Do: Perf testing for devices: Its necessary to deploy a mobile build 0.1 with the finished asset and its variations to analyze their performance and get a clear insight as to how the asset can be optimized with different implementations
-  
-## State Machine V2: Intermediate states for different capacities          
+            
+  <li>Smoothie Material</li>
+
+  <li>Pouring liquid animation</li>
+  <li>Some Extra background assets</li>
+  <li>FruitBag</li>
+  <br>
+   <br>
+
+   ## State Machine V2: Intermediate states for different capacities          
 
 At this stage I've achieved basic interaction as coverded above, it is time to build an Animation Blueprint that can describe the amount of smoothie the Blender has by displaying one frame of Animation Sequence depending on the capacity left for the blender.
 
@@ -147,17 +155,6 @@ Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeho
 
 
 <video src="https://github.com/user-attachments/assets/2cbdc91a-5cf2-49bd-a430-9d2c3a2db613" alt="Smoothie_Mechanic_V3" width="auto" height="100px" align="left"/>
-
-
-
-          
-  <li>Smoothie Material</li>
-
-  <li>Pouring liquid animation</li>
-  <li>Some Extra background assets</li>
-  <li>FruitBag</li>
-  <br>
-   <br>
 
 
 
