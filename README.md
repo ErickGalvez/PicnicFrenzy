@@ -123,7 +123,7 @@ https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
   <br>
    <br>
 
-   ## State Machine V2: Intermediate states for different capacities          
+### State Machine V2: Intermediate states for different capacities          
 
 At this stage I've achieved basic interaction as coverded above, it is time to build an Animation Blueprint that can describe the amount of smoothie the Blender has by displaying one frame of Animation Sequence depending on the capacity left for the blender.
 
@@ -139,21 +139,13 @@ Below it, you will find the Update Capacity To Amount Function, Which evaluates 
 
 
 <img width="1406" height="701" alt="Cpacity_AmountFilled_ABP" src="https://github.com/user-attachments/assets/bdca5c3d-1a2d-4622-b987-e08418b16b89" />
-
 Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeholder animation for running, walking and iddle
  <video src="https://github.com/user-attachments/assets/fef1ce97-d130-48b7-8aa0-7ea6b9b6ea7b" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
  
 ## State Machine V3: Complete Player Interaction Loop
-
-<div>
   <img width="450" height="687" alt="Blender_Status_Mechanic_V3" align="left" src="https://github.com/user-attachments/assets/955a0ecc-a3d0-40a1-b919-c1d72185dfcc" />
   <p align="Right"> New Workstation_Blender_ Logic takes into account a more complete Player interaction, the Workstation is designed to handle player interaction specially     through a Switch Statement that evaluates each Blender Status and responds with different conditions depending on the state it finds itself in. Here is a Diagram that         outlines main Player interactions along different Blender Status, and how each case is handled </p>
-</div>
-
 <img width="1526" height="721" alt="Blender_State_Machine_V3" src="https://github.com/user-attachments/assets/1fef15bc-50ca-4dcb-9cfb-11f033e56a84" />
-
-
-
 <video src="https://github.com/user-attachments/assets/2cbdc91a-5cf2-49bd-a430-9d2c3a2db613" alt="Smoothie_Mechanic_V3" width="auto" height="100px" align="left"/>
 
 
