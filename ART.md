@@ -20,14 +20,13 @@
   
   <ul>What is the most efficient/best performance way of using fluid simulations on UE5</ul>
     <ul>Baking resulting fluid simulation to use top part of the cache as a height map</ul>
+    <img src="https://github.com/user-attachments/assets/dd14ebba-d2af-4e98-a4ec-1bb2dd854628" alt="Smoothie_Character_Concept_v1" width="90%" height="auto"/>   
         <p>Turning manifold geometry given by a fluid simulation into a height map is the most efficient way that comes to mind, 
           The blending_sim_1.abc does note involve drastic geometry movement in its lower part, due to liquid filling completely and vortex force pushing the liquid to the walls of the blender</p>
-          <video src="https://github.com/user-attachments/assets/8e68241d-9d17-4a1f-a2fe-1cff3f13f492" alt="Smoothie_Animation_Compare_V1" width="20" height="auto" align="left"/>
-          
-   
+          <video src="https://github.com/user-attachments/assets/8e68241d-9d17-4a1f-a2fe-1cff3f13f492" alt="Smoothie_Animation_Compare_V1" width="20" height="auto" align="left"/>    
   <ul>How it affects performance on mobile devices?</ul>       
   To Do: Perf testing for devices: Its necessary to deploy a mobile build 0.1 with the finished asset and its variations to analyze their performance and get a clear insight as to how the asset can be optimized with different implementations
-  <img width="1372" height="900" alt="WaterSim_Scheme" src="https://github.com/user-attachments/assets/dd14ebba-d2af-4e98-a4ec-1bb2dd854628" />
+
   
   <li>Smoothie Material</li>
 
