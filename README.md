@@ -74,6 +74,12 @@ We get near an object we want to pick, press E, the instance of the object picke
   
   <img src="https://github.com/user-attachments/assets/dc0d3e75-7707-4e16-aed1-056f73e53ba3" alt="Pick Fruit Mechanics" width="700" height="auto"/>
 
+<div>
+  On later iterations a gradual capacity for the blender will be implemented as illustrated:
+  <img src="https://github.com/user-attachments/assets/bbc4d3db-cfe1-4949-8198-5353586a20b4" alt="Smoothie_Character_Concept_v1" width="400" height="auto"/>
+  <img width="400" height="auto" alt="Blender Capacity" src="https://github.com/user-attachments/assets/473fd4f9-4cc9-430d-a605-89711a471916" />
+</div>
+
 ## State Machine V2: Intermediate states for different capacities          
 
 At this stage I've achieved basic interaction as coverded above, it is time to build an Animation Blueprint that can describe the amount of smoothie the Blender has by displaying one frame of Animation Sequence depending on the capacity left for the blender.
@@ -97,12 +103,6 @@ Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeho
   </p>
   
   <br><br>
-</div>
-
-<div>
-  On later iterations a gradual capacity for the blender will be implemented as illustrated:
-  <img src="https://github.com/user-attachments/assets/bbc4d3db-cfe1-4949-8198-5353586a20b4" alt="Smoothie_Character_Concept_v1" width="400" height="auto"/>
-  <img width="400" height="auto" alt="Blender Capacity" src="https://github.com/user-attachments/assets/473fd4f9-4cc9-430d-a605-89711a471916" />
 </div>
 
   ### State Machine V3: Complete Player Interaction Loop
