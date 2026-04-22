@@ -41,7 +41,7 @@ This brings me to the first implemented piece of logic in the game, we are going
   
 
 
-##Smoothie Cycle - Step 1: Pick Item:
+## Smoothie Cycle - Step 1: Pick Item:
 We get near an object we want to pick, press E, the instance of the object picked will be destroyed from the map, and we are adding 1 to the "Fruit" variable, used for tracking how many fruits the player carries at any given moment
 
 <p align="center">
@@ -55,7 +55,7 @@ We get near an object we want to pick, press E, the instance of the object picke
 
 
 
-##Smoothie Cycle - Step 2: Blending: 
+## Smoothie Cycle - Step 2: Blending: 
 ## State Machine V1:
 <div align="justify">
   <video src="https://github.com/user-attachments/assets/655c9b2e-a9c1-464b-b71e-7ed251e746dd" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
