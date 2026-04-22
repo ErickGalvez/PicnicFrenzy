@@ -35,8 +35,8 @@ This brings me to the first implemented piece of logic in the game, we are going
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa6d54bb-891a-44ac-b99d-9909595fdf6c" alt="Smoothie_Character_Concept_v1" width="400" height="auto"/>
-  <img src="https://github.com/user-attachments/assets/16457c3a-c1d0-4778-92a6-aa5df722597c" alt="Smoothie_Character_Concept_v1" width="1080" height="auto"/>
-  <img src="https://github.com/user-attachments/assets/b57a8887-2e1e-4ef7-ac4b-278a2b920921" alt="Smoothie_Character_Concept_v1" width="1080" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/16457c3a-c1d0-4778-92a6-aa5df722597c" alt="Smoothie_" width="1080" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/b57a8887-2e1e-4ef7-ac4b-278a2b920921" alt="Smoothie_Character" width="1080" height="auto"/>
 </p>
   
 
