@@ -36,20 +36,20 @@ This brings me to the first implemented piece of logic in the game, we are going
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa6d54bb-891a-44ac-b99d-9909595fdf6c" alt="Smoothie_Character_Concept_v1" width="400" height="auto"/>
   <img src="https://github.com/user-attachments/assets/16457c3a-c1d0-4778-92a6-aa5df722597c" alt="Smoothie_Character_Concept_v1" width="1080" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/b57a8887-2e1e-4ef7-ac4b-278a2b920921" alt="Smoothie_Character_Concept_v1" width="1080" height="auto"/>
 </p>
-
-https://github.com/user-attachments/assets/b57a8887-2e1e-4ef7-ac4b-278a2b920921
+  
 
 
 ## Demo 2 Smoothie Cycle - Step 1: Pick Item:
 We get near an object we want to pick, press E, the instance of the object picked will be destroyed from the map, and we are adding 1 to the "Fruit" variable, used for tracking how many fruits the player carries at any given moment
 
 <p align="center">
+<img src="https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
 <img src="https://github.com/user-attachments/assets/cf20a560-145a-41bd-bf1a-a074596a788e" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
 </p>
 
 
-https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd
 
 
 ## Demo 3 Smoothie Cycle - Step 2: Blending: 
