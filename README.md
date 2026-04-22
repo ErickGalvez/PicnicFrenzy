@@ -41,18 +41,21 @@ This brings me to the first implemented piece of logic in the game, we are going
   
 
 
-## Demo 2 Smoothie Cycle - Step 1: Pick Item:
+##Smoothie Cycle - Step 1: Pick Item:
 We get near an object we want to pick, press E, the instance of the object picked will be destroyed from the map, and we are adding 1 to the "Fruit" variable, used for tracking how many fruits the player carries at any given moment
 
 <p align="center">
-<video src="https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
 <img src="https://github.com/user-attachments/assets/cf20a560-145a-41bd-bf1a-a074596a788e" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
+</p>
+
+<p align="center">
+<video src="https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
 </p>
 
 
 
 
-## Demo 3 Smoothie Cycle - Step 2: Blending: 
+##Smoothie Cycle - Step 2: Blending: 
 ## State Machine V1:
 <div align="justify">
   <video src="https://github.com/user-attachments/assets/655c9b2e-a9c1-464b-b71e-7ed251e746dd" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
@@ -88,12 +91,6 @@ Below it, you will find the Update Capacity To Amount Function, Which evaluates 
 
 <img width="1406" height="701" alt="Cpacity_AmountFilled_ABP" src="https://github.com/user-attachments/assets/bdca5c3d-1a2d-4622-b987-e08418b16b89" />
 
-Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeholder animation for running, walking and iddle
- <video src="https://github.com/user-attachments/assets/fef1ce97-d130-48b7-8aa0-7ea6b9b6ea7b" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
-
-
-
-<img width="1406" height="701" alt="Cpacity_AmountFilled_ABP" src="https://github.com/user-attachments/assets/bdca5c3d-1a2d-4622-b987-e08418b16b89" />
 Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeholder animation for running, walking and iddle
  <video src="https://github.com/user-attachments/assets/fef1ce97-d130-48b7-8aa0-7ea6b9b6ea7b" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
   
