@@ -34,9 +34,9 @@ Making sure that the logic of the character knows that he is entering the area o
 This brings me to the first implemented piece of logic in the game, we are going to print whenever the player enters an area, the name of the corresponding worksation
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/aa6d54bb-891a-44ac-b99d-9909595fdf6c" alt="Smoothie_Character_Concept_v1" width="1080" height="auto"/>
+  <video src="https://github.com/user-attachments/assets/aa6d54bb-891a-44ac-b99d-9909595fdf6c" alt="Smoothie_Character_Concept_v1"/>
   <img src="https://github.com/user-attachments/assets/16457c3a-c1d0-4778-92a6-aa5df722597c" alt="Smoothie_" width="1080" height="auto"/>
-  <video src="https://github.com/user-attachments/assets/b57a8887-2e1e-4ef7-ac4b-278a2b920921" alt="Smoothie_Character" width="1080" height="auto"/>
+  <video src="https://github.com/user-attachments/assets/b57a8887-2e1e-4ef7-ac4b-278a2b920921" alt="Smoothie_Character"/>
 </p>
   
 
@@ -45,7 +45,7 @@ This brings me to the first implemented piece of logic in the game, we are going
 We get near an object we want to pick, press E, the instance of the object picked will be destroyed from the map, and we are adding 1 to the "Fruit" variable, used for tracking how many fruits the player carries at any given moment
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
+<video src="https://github.com/user-attachments/assets/69c5b0d2-2193-4721-bf62-a40f25c253cd" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
 <img src="https://github.com/user-attachments/assets/cf20a560-145a-41bd-bf1a-a074596a788e" alt="Smoothie_Character_Concept_v1" width="600" height="auto"/>
 </p>
 
@@ -97,7 +97,7 @@ Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeho
 
 
   ### State Machine V3: Complete Player Interaction Loop
-  <img width="450" height="687" alt="Blender_Status_Mechanic_V3" align="left" src="https://github.com/user-attachments/assets/955a0ecc-a3d0-40a1-b919-c1d72185dfcc" />
+  <img width="450" height="auto" alt="Blender_Status_Mechanic_V3" align="left" src="https://github.com/user-attachments/assets/955a0ecc-a3d0-40a1-b919-c1d72185dfcc" />
   <p align="Right"> New Workstation_Blender_ Logic takes into account a more complete Player interaction, the Workstation is designed to handle player interaction specially     through a Switch Statement that evaluates each Blender Status and responds with different conditions depending on the state it finds itself in. Here is a Diagram that         outlines main Player interactions along different Blender Status, and how each case is handled </p>
 <img width="1526" height="721" alt="Blender_State_Machine_V3" src="https://github.com/user-attachments/assets/1fef15bc-50ca-4dcb-9cfb-11f033e56a84" />
 <video src="https://github.com/user-attachments/assets/2cbdc91a-5cf2-49bd-a430-9d2c3a2db613" alt="Smoothie_Mechanic_V3" width="auto" height="100px" align="left"/>
