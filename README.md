@@ -71,10 +71,10 @@ We get near an object we want to pick, press E, the instance of the object picke
   
   <img src="https://github.com/user-attachments/assets/dc0d3e75-7707-4e16-aed1-056f73e53ba3" alt="Pick Fruit Mechanics" width="700" height="auto"/>
 
-### State Machine V2: Intermediate states for different capacities          
-<p> 
-  At this stage I've achieved basic interaction as coverded above, it is time to build an Animation Blueprint that can describe the amount of smoothie the Blender has by displaying one frame of Animation Sequence depending on the capacity left for the blender.
-</p>
+## State Machine V2: Intermediate states for different capacities          
+
+At this stage I've achieved basic interaction as coverded above, it is time to build an Animation Blueprint that can describe the amount of smoothie the Blender has by displaying one frame of Animation Sequence depending on the capacity left for the blender.
+
 Blender Content is represented with this volume, which has 2 ShapeKeys, One that represents the empty container, and one to represent the full Blender Container
  <video src="https://github.com/user-attachments/assets/02a6a6c2-5e4e-431f-9d37-90616e424718" alt="Smoothie_ShapeKeys_" width="2" height="auto" align="left"/>
 We then transfer this into the following Asset types within unreal engine.
@@ -87,14 +87,26 @@ Below it, you will find the Update Capacity To Amount Function, Which evaluates 
 
 
 <img width="1406" height="701" alt="Cpacity_AmountFilled_ABP" src="https://github.com/user-attachments/assets/bdca5c3d-1a2d-4622-b987-e08418b16b89" />
+
+Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeholder animation for running, walking and iddle
+ <video src="https://github.com/user-attachments/assets/fef1ce97-d130-48b7-8aa0-7ea6b9b6ea7b" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
+
+
+
+<img width="1406" height="701" alt="Cpacity_AmountFilled_ABP" src="https://github.com/user-attachments/assets/bdca5c3d-1a2d-4622-b987-e08418b16b89" />
 Note: The Maria_Character_V1-2-5 is introduced as well, including mixamo placeholder animation for running, walking and iddle
  <video src="https://github.com/user-attachments/assets/fef1ce97-d130-48b7-8aa0-7ea6b9b6ea7b" alt="Smoothie_Character_Concept_v1" width="20" height="auto" align="left"/>
   
   </p>
-  On later iterations a gradual capacity for the blender will be implemented as illustrated:
+  
   <br><br>
 </div>
 
+<div>
+  On later iterations a gradual capacity for the blender will be implemented as illustrated:
+  <img src="https://github.com/user-attachments/assets/bbc4d3db-cfe1-4949-8198-5353586a20b4" alt="Smoothie_Character_Concept_v1" width="400" height="auto"/>
+  <img width="400" height="auto" alt="Blender Capacity" src="https://github.com/user-attachments/assets/473fd4f9-4cc9-430d-a605-89711a471916" />
+</div>
 
   ### State Machine V3: Complete Player Interaction Loop
   <img width="450" height="auto" alt="Blender_Status_Mechanic_V3" align="left" src="https://github.com/user-attachments/assets/955a0ecc-a3d0-40a1-b919-c1d72185dfcc" />
